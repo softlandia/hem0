@@ -1,0 +1,11 @@
+X:\prj\lab3\hem0\bin\Debug\netcoreapp2.1\hem0.deps.json
+X:\prj\lab3\hem0\bin\Debug\netcoreapp2.1\hem0.runtimeconfig.json
+X:\prj\lab3\hem0\bin\Debug\netcoreapp2.1\hem0.runtimeconfig.dev.json
+X:\prj\lab3\hem0\bin\Debug\netcoreapp2.1\hem0.dll
+X:\prj\lab3\hem0\bin\Debug\netcoreapp2.1\hem0.pdb
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.csprojAssemblyReference.cache
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.csproj.CoreCompileInputs.cache
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.AssemblyInfoInputs.cache
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.AssemblyInfo.cs
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.dll
+X:\prj\lab3\hem0\obj\Debug\netcoreapp2.1\hem0.pdb

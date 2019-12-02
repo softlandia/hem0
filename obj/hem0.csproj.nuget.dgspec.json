@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\prj\\lab3\\hem0\\hem0.csproj": {}
+  },
+  "projects": {
+    "X:\\prj\\lab3\\hem0\\hem0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\prj\\lab3\\hem0\\hem0.csproj",
+        "projectName": "hem0",
+        "projectPath": "X:\\prj\\lab3\\hem0\\hem0.csproj",
+        "packagesPath": "C:\\Users\\vital\\.nuget\\packages\\",
+        "outputPath": "X:\\prj\\lab3\\hem0\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vital\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
